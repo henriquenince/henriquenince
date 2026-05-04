@@ -19,36 +19,14 @@ My technical foundation joins the statistical rigor of R and Python with the eff
 ## 🚀 Skills
 
 📊 **Data Analysis & BI** — Power BI, Looker Studio, dashboards, data storytelling, and reporting
+
 🧠 **Machine Learning & Statistics** — Predictive models, clustering, regression, PCA, and statistical modeling
+
 🤖 **Artificial Intelligence & LLMs** — Generative AI, Large Language Models, Claude Code, AI-powered applications
-🖥️ **Programming** — Python, R, SQL, PostgreSQL, API integrations, and automation
+
+🖥️ **Programming** — Python, R, SQL, API integrations, and automation
+
 ☁️ **Cloud & Tools** — Cloud data platforms, VSCode, Advanced Excel, automation pipelines
-
----
-
-## 💼 Professional Experience
-
-**BI Coordinator** — Grupo Cuidarte *(Dec 2025 – Present)*
-Leading the company's data strategy, ensuring collection, integration, analysis, and visualization of information to support decision-making.
-
-**BI Intern** — Grupo Cuidarte *(Apr 2025 – Nov 2025)*
-Statistical analysis, dashboards, statistical modeling, automation, APIs, and integrations.
-
-**Data Science Intern** — Public Defender's Office of Brazil – DPU *(Aug 2023 – Mar 2025)*
-Statistical analysis, reports, and dashboards.
-
-**Data Science Intern** — Ministry of Development and Social Assistance *(May 2023 – Jul 2023)*
-Statistical analysis and report generation.
-
-**Statistical Consulting** — ESTAT Junior Firm *(2022)*
-Projects in Statistics, reports, dashboards, and programming.
-
----
-
-## 🎓 Education
-
-🎓 **MBA in Data Science, AI, and Analytics** — USP/Esalq *(May 2026 – In Progress)*
-🎓 **Bachelor's Degree in Statistics** — University of Brasília, UnB *(2021 – 2025)*
 
 ---
 
@@ -61,14 +39,6 @@ Here you will find projects related to **machine learning**, **statistical analy
 📉 **Dashboards & Exploratory Analysis** — Data visualization and interactive reports in Power BI and Looker Studio
 🔬 **Statistical Studies** — Applied statistics, modeling, and data-driven research
 ⚙️ **Automation & Integrations** — API integrations and automated data pipelines
-
----
-
-## 🌐 Languages
-
-🇧🇷 Portuguese — Fluent
-🇺🇸 English — Advanced
-🇪🇸 Spanish — Basic
 
 ---
 
