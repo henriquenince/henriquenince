@@ -4,12 +4,6 @@
 
 📍 Brasília, Brazil
 
-📧 [nincehenrique@gmail.com](mailto:nincehenrique@gmail.com)
-
-📱 +55 61 98153-3709
-
-🔗 [LinkedIn](https://www.linkedin.com/in/henrique-nince-535226250)
-
 ---
 
 ## 🧑‍💻 About Me
