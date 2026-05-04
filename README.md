@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Henrique Nince
 
 🎯 **Statistician | Data Science | BI | Machine Learning | AI | LLM**
+
 📍 Brasília, Brazil
 📧 [nincehenrique@gmail.com](mailto:nincehenrique@gmail.com)
 📱 +55 61 98153-3709
