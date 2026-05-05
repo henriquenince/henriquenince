@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Henrique Nince
+# 🚀 Henrique Nince
 
 🎯 **Statistician | Data Science | BI | Machine Learning | AI | LLM**
 
@@ -14,7 +14,7 @@ My technical foundation joins the statistical rigor of R and Python with the eff
 
 ---
 
-## 🚀 Skills
+## 🛠 Skills
 
 📊 **Data Analysis & BI** — Power BI, Looker Studio, dashboards, data storytelling, and reporting
 
@@ -25,22 +25,6 @@ My technical foundation joins the statistical rigor of R and Python with the eff
 🖥️ **Programming** — Python, R, SQL, API integrations, and automation
 
 ☁️ **Cloud & Tools** — Cloud data platforms, VSCode, Advanced Excel, automation pipelines
-
----
-
-## 📂 GitHub Projects
-
-Here you will find projects related to **machine learning**, **statistical analysis**, **BI solutions**, and **AI applications**.
-
-🤖 **AI & LLM Projects** — Applications and experiments with Generative AI and Large Language Models
-
-📊 **Machine Learning Models** — Predictive and classification models applied to real-world problems
-
-📉 **Dashboards & Exploratory Analysis** — Data visualization and interactive reports in Power BI and Looker Studio
-
-🔬 **Statistical Studies** — Applied statistics, modeling, and data-driven research
-
-⚙️ **Automation & Integrations** — API integrations and automated data pipelines
 
 ---
 
