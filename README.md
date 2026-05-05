@@ -6,7 +6,7 @@
 
 ---
 
-## ❯ Profile
+## 📖 Profile
 
 As a statistician, I built my career by integrating Data Science, Business Intelligence, and Machine Learning, always focusing on transforming data into strategic decisions and measurable impact. I act in the construction and automation of dashboards and analytical products, utilizing tools such as Power BI, development environments in VSCode, as well as cloud data platforms. I have solid experience in data analysis, automated integrations, and the creation of indicators that support operational, tactical, and strategic decisions.
 
