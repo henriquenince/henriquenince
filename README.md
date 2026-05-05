@@ -1,4 +1,4 @@
-# 🚀 Henrique Nince
+# Henrique Nince
 
 🎯 **Statistician | Data Science | BI | Machine Learning | AI | LLM**
 
