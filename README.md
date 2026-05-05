@@ -16,7 +16,7 @@ My expertise combines the statistical rigor of R and Python with the efficiency 
 
 ## ⚡ Skills
 
-📊 **Data Analysis & BI** — Power BI, Looker Studio, dashboards, data storytelling, and reporting
+📈 **Data Analysis & BI** — Power BI, Looker Studio, dashboards, data storytelling, and reporting
 
 🧠 **Machine Learning & Statistics** — Predictive models, clustering, regression, PCA, and statistical modeling
 
