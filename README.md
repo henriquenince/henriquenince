@@ -1,6 +1,6 @@
 # Henrique Nince
 
-📊 **Statistician | Data Science | Business Intelligence | LLM**
+📊 **Statistician | Data Scientist | Machine Learning | Python | LLM | AI | Power BI | SQL**
 
 📍 Brasília, Brazil
 
