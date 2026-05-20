@@ -30,7 +30,7 @@ My expertise combines the statistical rigor of R and Python with the efficiency 
 
 ## 📬 Contact
 
-🔗 LinkedIn: [linkedin.com/in/henrique-nince-535226250](https://www.linkedin.com/in/henrique-nince-535226250)
+🔗 LinkedIn: [linkedin.com/in/henrique-nince](https://www.linkedin.com/in/henrique-nince)
 
 📧 Email: [nincehenrique@gmail.com](mailto:nincehenrique@gmail.com)
 
