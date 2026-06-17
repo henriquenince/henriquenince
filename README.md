@@ -26,7 +26,7 @@ Here you'll find projects in the areas of Machine Learning, ETL pipelines, stati
 
 📈 **Data Analysis & BI**: Power BI, Looker Studio, Star Schema modeling, data storytelling, KPI dashboards
 
-🧠 **Machine Learning & Statistics**: Predictive models, logistic regression, clustering, factor analysis, feature engineering, model validation (AUC, ROC, Confusion Matrix)
+🧠 **Machine Learning & Statistics**: Predictive models, logistic regression, clustering, factor analysis, time series, feature engineering, model validation (AUC, ROC, Confusion Matrix)
 
 🤖 **Artificial Intelligence & LLMs**: AI Agents, Claude Code, LLMs, Generative AI
 
