@@ -2,7 +2,7 @@
 
 📊 **Data Scientist | Machine Learning | Python | SQL | ETL | Power BI | Analytics | AI Agents**
 
-📍 Brasília, Brazil
+📍 São Paulo, Brazil
 
 ---
 
