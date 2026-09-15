@@ -8,7 +8,7 @@
 
 ## 📖 Profile
 
-Data Scientist and Data Analyst with 3 years of experience turning data into real business decisions. I reduced payroll costs by R$24,000/month, increased sales conversion from 3% to 5% with a propensity model, built a company's entire data infrastructure from scratch, ETL pipelines, Star Schema modeling, automated Power BI dashboards and also built a Big Data pipeline processing 1.83 TB of raw data using Medallion Architecture (Bronze/Silver/Gold).
+Data Scientist with 3 years of experience turning data into real business decisions. I reduced payroll costs by R$24,000/month, increased sales conversion from 3% to 5% with a propensity model, built a company's entire data infrastructure from scratch, ETL pipelines, Star Schema modeling, automated Power BI dashboards and also built a Big Data pipeline processing 1.83 TB of raw data using Medallion Architecture (Bronze/Silver/Gold).
  
 My background is in Statistics (UnB) with an MBA in Data Science, AI & Analytics (USP/Esalq), combining statistical rigor with practical data engineering and machine learning delivery. I stand out for integrating AI Agents into the development workflow, not as a curiosity, but as a core part of how I actually deliver. This allows me to build and iterate faster without compromising technical quality.
 
